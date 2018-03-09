@@ -6,6 +6,8 @@ Shows one content before set final date. It counts down hours, minutes and secon
 
 Change the $live_date date in the index.php to any desired date in yyyymmdd format.
 
+$live_date = '20180309';
+
 ## Built With
 
 PHP
