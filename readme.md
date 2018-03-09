@@ -1,4 +1,4 @@
-# Countdown to and change content automatically on a specific date
+# Countdown to a specific date and change content automatically
 
 Shows one content before set final date. It counts down hours, minutes and seconds and shows different content once it reaches the set date.
 
