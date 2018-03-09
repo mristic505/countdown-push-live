@@ -7,7 +7,7 @@
 	<script type="text/javascript" src="script.js"></script>
 </head>
 <?php 
-date_default_timezone_set('America/New_York');
+date_default_timezone_set('America/New_York'); // Change this to whatever time zone you wish to use. http://php.net/manual/en/timezones.php
 
 $live_date = '20180309'; // Change this to when the website is going live in yyyymmdd format
 
